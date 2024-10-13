@@ -1,4 +1,4 @@
-# -fullcycle-ddd
+# fullcycle-ddd
 Eng: challenge DDD: Tactical Modeling and Patterns  | DDD: Modelagem Tática e Patterns
 
 1) Nesse desafio você deverá fazer com que a classe OrderRepository implemente totalmente os métodos definidos pelo OrderRepositoryInterface.
