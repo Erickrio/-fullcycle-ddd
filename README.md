@@ -22,6 +22,17 @@ Handler2: EnviaConsoleLog2Handler. Mensagem: "Esse é o segundo console.log do e
 O segundo evento deverá ser disparado quando o endereço do Customer é trocado (método changeAddress()).
 Nesse caso, o ID, Nome, bem como os dados do endereço devem ser passados ao evento.
 
+
+Como Usar o projeto?
+
+1) digite npm i , no prompt de comando.
+2) digite o Test, npm test,
+A saida na imagem abaixo:
+
+![image](https://github.com/user-attachments/assets/185d659b-bfa2-460b-bdfb-9d24d9072905)
+
+
+
 Handler: EnviaConsoleLogHandler. Mensagem: "Endereço do cliente: {id}, {nome} alterado para: {endereco}".
 Todos os testes devem ser realizados para garantir o bom funcionamento dos eventos.
 
